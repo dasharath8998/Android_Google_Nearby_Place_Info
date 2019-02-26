@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Google mapsss</string>
+    <string-array name="type">
+        <item>Selec Type</item>
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bar</item>
+        <item>book_store</item>
+        <item>bus_station</item>
+        <item>church</item>
+        <item>doctor</item>
+        <item>gym</item>
+        <item>hospital</item>
+        <item>stadium</item>
+        <item>police</item>
+        <item>movie_theater</item>
+        <item>jewelry_store</item>
+    </string-array>
+</resources>
